@@ -23,3 +23,9 @@ ils partent avec 10 points de vie
 - Les fantassins sont capables d'attaquer les unités et batiments ennemis, ils commencent avec 20 PV
 - Au niveau des déplacements, les paysans sont plus rapides que les fantassins (car moins chargé)
 - Sur la carte se trouvent des obstacles, indestructibles
+
+Options
+
+- Arène de jeu plus grande que l'écran
+- Ajouter des unités supplémentaires : (ex: archers)
+- Ajouter des batiments supplémentaires : 
